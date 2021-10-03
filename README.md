@@ -1,9 +1,7 @@
-### Hi there. 👋 I'm Ulisses Ferreira, welcome to my GitHub! 👨‍💻 
+### Hi there. 👏🏽 I'm Ulisses Ferreira, welcome to my GitHub! 
  
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas na FIAP
-- 🌱 Estudando Python
-- 📫 Contate-me pelo meu [LinkedIn](https://www.linkedin.com/in/ulisseferreira85/)
-- 😄 Pronouns: ele/dele
+- 👨🏽‍💻 Estudando Python
 
 <div align="left">
   <a href="https://github.com/ulissesferreira85">
